@@ -1,2 +1,2 @@
 # fullstackopen
-Exercises solutions to the full stack open course (https://fullstackopen.com/en/)
+- Exercises solutions to the full stack open course (https://fullstackopen.com/en/)
